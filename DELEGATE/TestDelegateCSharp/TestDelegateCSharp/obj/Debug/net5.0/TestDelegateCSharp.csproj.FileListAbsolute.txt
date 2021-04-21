@@ -1,0 +1,16 @@
+D:\Csharp\TestDelegate\TestDelegateCSharp\TestDelegateCSharp\bin\Debug\net5.0\TestDelegateCSharp.exe
+D:\Csharp\TestDelegate\TestDelegateCSharp\TestDelegateCSharp\bin\Debug\net5.0\TestDelegateCSharp.deps.json
+D:\Csharp\TestDelegate\TestDelegateCSharp\TestDelegateCSharp\bin\Debug\net5.0\TestDelegateCSharp.runtimeconfig.json
+D:\Csharp\TestDelegate\TestDelegateCSharp\TestDelegateCSharp\bin\Debug\net5.0\TestDelegateCSharp.runtimeconfig.dev.json
+D:\Csharp\TestDelegate\TestDelegateCSharp\TestDelegateCSharp\bin\Debug\net5.0\TestDelegateCSharp.dll
+D:\Csharp\TestDelegate\TestDelegateCSharp\TestDelegateCSharp\bin\Debug\net5.0\ref\TestDelegateCSharp.dll
+D:\Csharp\TestDelegate\TestDelegateCSharp\TestDelegateCSharp\bin\Debug\net5.0\TestDelegateCSharp.pdb
+D:\Csharp\TestDelegate\TestDelegateCSharp\TestDelegateCSharp\obj\Debug\net5.0\TestDelegateCSharp.csprojAssemblyReference.cache
+D:\Csharp\TestDelegate\TestDelegateCSharp\TestDelegateCSharp\obj\Debug\net5.0\TestDelegateCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\TestDelegate\TestDelegateCSharp\TestDelegateCSharp\obj\Debug\net5.0\TestDelegateCSharp.AssemblyInfoInputs.cache
+D:\Csharp\TestDelegate\TestDelegateCSharp\TestDelegateCSharp\obj\Debug\net5.0\TestDelegateCSharp.AssemblyInfo.cs
+D:\Csharp\TestDelegate\TestDelegateCSharp\TestDelegateCSharp\obj\Debug\net5.0\TestDelegateCSharp.csproj.CoreCompileInputs.cache
+D:\Csharp\TestDelegate\TestDelegateCSharp\TestDelegateCSharp\obj\Debug\net5.0\TestDelegateCSharp.dll
+D:\Csharp\TestDelegate\TestDelegateCSharp\TestDelegateCSharp\obj\Debug\net5.0\ref\TestDelegateCSharp.dll
+D:\Csharp\TestDelegate\TestDelegateCSharp\TestDelegateCSharp\obj\Debug\net5.0\TestDelegateCSharp.pdb
+D:\Csharp\TestDelegate\TestDelegateCSharp\TestDelegateCSharp\obj\Debug\net5.0\TestDelegateCSharp.genruntimeconfig.cache
